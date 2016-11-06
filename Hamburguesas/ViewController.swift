@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var tipoHamburguesa: UILabel!
     
     let paisRand = ColeccionDePaises()
-    let hamburguesaRand = ColeccionDeHamburguesa()
+    let hamburguesaRand = ColeccionDeHamburguesas()
     
     let colores = Colores()
 
